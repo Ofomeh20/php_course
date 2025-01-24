@@ -1,6 +1,6 @@
 <?php
 
-
+echo "Another week end"
 echo "hellow world";
 echo "<h2>Hello this is an heading </h2>";
  ?>
